@@ -1,5 +1,5 @@
 const CONFIG = {
-  whatsappNumber: "5511999999999",
+  whatsappNumber: "5511953583341",
   whatsappMessage: "Olá, gostaria de saber mais sobre os atendimentos psicológicos e os horários disponíveis."
 };
 
